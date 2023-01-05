@@ -7,3 +7,6 @@ reliable.
 
 Stage 2 description:
 Same as stage 1, however the position and orientation of the 3 classes of lego bricks are different
+
+Outcome:
+Displays a cnfusion matrix that shows the accuracy for each regression model used in each stage
