@@ -1,4 +1,4 @@
-# ImageSortingAI
+# ImageSortingAI- built using python and jupyter notebook
 Stage 1 description: 
 The purpose of stage 1 is to build a 3 class classifier to sort different shapes with the same position and orientation of Lego
 blocks into their respective classes using logistic regression.These shapes need to be
